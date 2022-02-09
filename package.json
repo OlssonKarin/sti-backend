@@ -1,0 +1,19 @@
+{
+  "name": "sti-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlssonKarin/sti-backend.git"
+  },
+  "author": "Karin Olsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlssonKarin/sti-backend/issues"
+  },
+  "homepage": "https://github.com/OlssonKarin/sti-backend#readme"
+}
